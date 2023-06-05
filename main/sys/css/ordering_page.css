@@ -1,0 +1,60 @@
+body{
+    width:100%;
+    max-width:800px;
+    margin:0 auto;
+    font-family:sans-serif;
+    background:white;
+}
+.container{
+    width:100%;
+    max-width:800px;
+    margin:0 auto;
+}
+
+.order_box{
+    width:100%;
+    max-width:350px;
+    margin:0 auto;
+}.order_box h1{
+    font-weight:300;
+
+}.order_box .flexer{
+    width:100%;
+    max-width:350px;
+    margin:0 auto;
+    display:block;
+    margin-top:50px;
+    margin-bottom:50px;
+}.order_box .flexer form{
+    width:100%;
+    max-width:250px;
+    margin:0 auto;
+}.order_box .flexer form h4{
+    font-weight:400;
+}.order_box .flexer form input{
+    width:100%;
+    margin-bottom:10px;
+    height:30px;
+    background:#f5f5f5f5;
+    border:0px;
+    border-radius:2px;
+    outline:none;
+
+}.order_box .flexer form input:hover{
+    border:2px solid royalblue;
+    box-shadow:0px 0px 5px grey;
+}.order_box .flexer form button{
+    background:green;
+    border:0px;
+    height:25px;
+    color:white;
+    font-weight:;
+    outline:none;
+}.order_box .flexer form button:hover{
+    box-shadow:0 0 10px grey;
+}
+.order_box .flexer img{
+    display:none;
+
+
+}

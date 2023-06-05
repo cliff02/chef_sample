@@ -1,0 +1,2 @@
+footer = '<!--footer--><svg  viewBox="0 0 1440 320"><path fill="#3f3f3f" fill-opacity="1" d="M0,160L60,170.7C120,181,240,203,360,181.3C480,160,600,96,720,101.3C840,107,960,181,1080,208C1200,235,1320,213,1380,202.7L1440,192L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg><div class="footer"><p>Chef cliff catering copy right &copy; 2023<br>Powered by <a href="https://bartwel27.github.io/server/" target="_blank">Bee servers</a></p></div><!--footer-->'
+document.write(footer)
