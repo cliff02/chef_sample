@@ -409,11 +409,11 @@ body{
 }.m_player audio{
     display:none;
 }.m_player .p_btns{
-    width:80px;
-    height:80px;
+    width:50px;
+    height:50px;
     background:grey;
-    border-radius:40px;
-    border:1px solid #222;
+    border-radius:25px;
+    
     
 }.m_player .p_btns button{
     width:100%;height:100%;
